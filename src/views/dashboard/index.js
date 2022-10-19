@@ -4,12 +4,12 @@ import { Link } from 'react-router-dom'
 
 import {bindActionCreators} from "redux"
 //circular
-import Circularprogressbar from '../../components/circularprogressbar.js'
+import Circularprogressbar from '../../components/circularprogressbar'
 
 // AOS
 import AOS from 'aos'
 import 'aos/dist/aos.js'
-import 'aos/dist/aos.css.js'
+import 'aos/dist/aos.css'
 //apexcharts
 import Chart from "react-apexcharts";
 
